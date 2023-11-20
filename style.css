@@ -1,0 +1,170 @@
+
+
+.background{
+    background-color: #ECE3CE;
+}
+
+.container{
+    background-color: none;
+    font-family: monospace;
+
+}
+div{
+    display: block;
+}
+
+#top-container{
+    padding: 100px;
+    padding-bottom: 150px;
+}
+.title-text{
+    display: block;
+    font-family: monospace;
+    text-align: center;
+    line-height: 50px;
+}
+h1{
+    font-size: 4em;
+}
+#css{
+    margin-left: 900px;
+}
+#html{
+
+   position: absolute;
+   left: 200px;
+   top: 300px;
+   
+}
+#javascript{
+    position: absolute;
+    left: 1300px;
+    top: 600px;
+
+}
+#bootstrap{
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
+#mountain{
+    position: absolute;
+    left: 520px;
+    top: 450px;
+
+}
+
+#middle-container{
+    background-color: #739072;
+    margin-top: 200px;
+    padding-bottom: 100px;
+    
+}
+#javan
+{
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.intro{
+display: block;
+text-align: center;
+
+
+}
+.intro > h2{
+    font-family: monospace;
+    font-size: 30px;
+}
+.intro > p{
+    font-family: monospace;
+    font-size: 20px;
+    display: block;
+    width: 30%;
+    margin:auto;
+}
+#dots{
+    color: #ECE3CE;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#skills{
+    margin-top: 100px;
+    display: block;
+    text-align: center;
+    
+}
+.design{
+    display: grid;
+    grid-template-columns: 200px 400px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    text-align: left;
+}
+#skills > h2{
+    font-size: 50px;
+   
+}
+.design >li>h2{
+    color: brown;
+}
+#bottom-container{
+    background-color: #ECE3CE;
+    
+}
+
+.getintouch{
+    display: block;
+    width: auto;
+    text-align: center;
+    padding: 30px;
+
+}
+.getintouch>h2{
+    font-size: 40px;
+    color: #3A4D39;
+}
+ 
+.getintouch>p{
+    font-size: 20px;
+    margin-bottom: 50px;
+    color: #3A4D39;
+}
+.btn{
+    font-family: monospace;
+    text-decoration: none;
+    background-color: #7FB77E;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+#footer{
+    list-style: none;
+    word-spacing: 40px;
+    text-align: center;
+    padding: 50px;
+    background-color: #3A4D39;
+   
+}
+#footer>a{
+
+    text-decoration: none;
+    color: white;
+    font-family: monospace;
+    font-size: 15px;
+    
+}
+#footer> a:hover{
+    color: black;
+} 
+a:hover{
+    color: black;
+} 
+#footer >p{
+    word-spacing: normal;
+    color: white;
+    padding-top: 50px;
+}
